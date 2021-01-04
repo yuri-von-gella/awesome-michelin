@@ -9,3 +9,4 @@
 * [막창/삼겹살](/md/beef.md) :meat_on_bone:
 * [카페](/md/cafe.md) :coffee:
 * [국밥](/md/kukbab.md) :rice:
+* [양식](/md/western_food.md) 🍝

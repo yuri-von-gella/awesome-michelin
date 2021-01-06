@@ -58,7 +58,7 @@
 
 ---
 
-## [십원집] (https://map.naver.com/v5/entry/place/13587483?c=14134890.861225236,4517938.807739029,15,0,0,0,dh&placePath=%3Fentry=plt)
+## [십원집](https://map.naver.com/v5/entry/place/13587483?c=14134890.861225236,4517938.807739029,15,0,0,0,dh&placePath=%3Fentry=plt)
 
 >gunuk's pick
 >
